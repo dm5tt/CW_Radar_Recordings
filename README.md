@@ -12,7 +12,7 @@ These are raw CW radar recordings made by a modified Hi-Link LD2415H vehicle spe
 
 50kHz ADC speed
 
-Varef = 3.3V
+V_aref = 3.3V
 
 The parameters of the antenna can be found if you google for the "HLK-LD2415" datasheet. The transmitter/antenna itself wasn't modified.
 
