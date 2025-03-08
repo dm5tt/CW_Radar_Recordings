@@ -29,6 +29,6 @@ Test against a Loudspeaker that generated a Sinus on 50Hz/100Hz/150Hz/200Hz.
 
 # Recording examples
 
-## street_1741443997_1741444997_4
+## street_high_gain_1741443997_1741444997_4
 
-![street_1741443997_1741444997_4 Screenshot](recordings/street_high_gain/street_1741443997_1741444997_4.jpeg)
+![Street High Gain Screenshot](recordings/street_high_gain/street_high_gain_1741443997_1741444997_4.jpeg)
