@@ -31,4 +31,4 @@ Test against a Loudspeaker that generated a Sinus on 50Hz/100Hz/150Hz/200Hz.
 
 ## street_1741443997_1741444997_4
 
-![street_1741443997_1741444997_4 Screenshot](recordings/street/street_1741443997_1741444997_4.jpeg)
+![street_1741443997_1741444997_4 Screenshot](recordings/street_high_gain/street_1741443997_1741444997_4.jpeg)
