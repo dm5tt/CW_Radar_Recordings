@@ -21,7 +21,14 @@ The parameters of the antenna can be found if you google for the "HLK-LD2415" da
 ![Recording Chain](docs/cw_calibration.jpeg)
 
 Test against a Loudspeaker
- - 50Hz
- - 100Hz
+- 50Hz
+- 100Hz
 - 150Hz
 - 200Hz
+
+
+# Recoring examples
+
+## street_1741443997_1741444997_4
+
+![street_1741443997_1741444997_4 Screenshot](recordings/street/street_1741443997_1741444997_4.jpeg)
