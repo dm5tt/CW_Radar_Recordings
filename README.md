@@ -29,7 +29,7 @@ The transmitter/antenna itself wasn't modified.
 
 ![Recording Chain](docs/cw_calibration.jpeg)
 
-Radar test against the Loudspeaker membrane that generated a Sinus on 50Hz/100Hz/150Hz/200Hz.
+Radar test against the loudspeaker membrane that generated a sinus on 50Hz/100Hz/150Hz/200Hz.
 
 
 # Recording examples
