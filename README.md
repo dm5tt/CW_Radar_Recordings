@@ -1,6 +1,8 @@
 # CW Radar Recordings
 
-These are raw CW radar recordings made by a modified Hi-Link LD2415H vehicle speed radar
+These are raw CW radar recordings made by a modified Hi-Link LD2415H vehicle speed radar.
+
+[Reverse Engineering was done by my before](https://www.dm5tt.de/2025/02/15/reverse-engineering-hilink-ld2415h/)
 
 # Configuration
 
