@@ -24,7 +24,7 @@ The parameters of the antenna can be found if you google for the "HLK-LD2415" da
 
 ![Recording Chain](docs/cw_calibration.jpeg)
 
-Test against a Loudspeaker that generated a Sinus on 50Hz/100Hz/150Hz/200Hz.
+Radar test against the Loudspeaker membrane that generated a Sinus on 50Hz/100Hz/150Hz/200Hz.
 
 
 # Recording examples
