@@ -2,7 +2,7 @@
 
 These are raw CW radar recordings made by a modified Hi-Link LD2415H vehicle speed radar.
 
-[Reverse Engineering was done by my before](https://www.dm5tt.de/2025/02/15/reverse-engineering-hilink-ld2415h/)
+[Reverse Engineering was done by me before](https://www.dm5tt.de/2025/02/15/reverse-engineering-hilink-ld2415h/).
 
 # Configuration
 
@@ -24,11 +24,7 @@ The parameters of the antenna can be found if you google for the "HLK-LD2415" da
 
 ![Recording Chain](docs/cw_calibration.jpeg)
 
-Test against a Loudspeaker
-- 50Hz
-- 100Hz
-- 150Hz
-- 200Hz
+Test against a Loudspeaker that generated a Sinus on 50Hz/100Hz/150Hz/200Hz.
 
 
 # Recording examples
