@@ -6,15 +6,20 @@ These are raw CW radar recordings made by a modified Hi-Link LD2415H vehicle spe
 
 # Configuration
 
-2 Byte per sample
+Radar:
+ - Frequency: ~24.125GHz
+ - EIRP: ~18dBm
 
-16 Bit ADC resolution
 
-50kHz ADC speed
+ADC
+* 16 Byte per sample (uint16_t)
+* 16 Bit ADC resolution
+* 50kHz ADC speed
+* V_aref = 3.3V
 
-V_aref = 3.3V
+The parameters of the antenna can be found if you google for the "HLK-LD2415" datasheet.
 
-The parameters of the antenna can be found if you google for the "HLK-LD2415" datasheet. The transmitter/antenna itself wasn't modified.
+The transmitter/antenna itself wasn't modified.
 
 # Recording Chain
 
