@@ -14,11 +14,11 @@ The parameters of the antenna can be found if you google for the "HLK-LD2415" da
 
 # Recording Chain
 
-![Recording Chain](Docs/cw_setup.drawio.png)
+![Recording Chain](docs/cw_setup.drawio.png)
 
 # Setup Verification
 
-![Recording Chain](Docs/cw_calibration.jpeg)
+![Recording Chain](docs/cw_calibration.jpeg)
 
 Test against a Loudspeaker
  - 50Hz
