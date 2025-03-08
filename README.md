@@ -29,6 +29,16 @@ Radar test against the Loudspeaker membrane that generated a Sinus on 50Hz/100Hz
 
 # Recording examples
 
+
+
 ## street_high_gain_1741443997_1741444997_4
 
+
 ![Street High Gain Screenshot](recordings/street_high_gain/street_high_gain_1741443997_1741444997_4.jpeg)
+
+```
+1741443997 = Unix Timestamp Start
+1741444997 = Unix Timestamp Stop
+4          = Segment Number
+``````
+
