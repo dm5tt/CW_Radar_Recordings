@@ -12,7 +12,7 @@ Radar:
 
 
 ADC
-* 16 Byte per sample (uint16_t)
+* 2 Byte per sample (uint16_t)
 * 16 Bit ADC resolution
 * 50kHz ADC speed
 * V_aref = 3.3V
