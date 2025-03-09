@@ -42,8 +42,8 @@ Radar test against the loudspeaker membrane that generated a sinus on 50Hz/100Hz
 ![Street High Gain Screenshot](recordings/street_low_gain/street_low_gain_1741464109_1741465109_3.jpeg)
 
 ```
-1741443997 = Unix Timestamp Start
-1741444997 = Unix Timestamp Stop
-4          = Segment Number
+1741464109 = Unix Timestamp Start
+1741465109 = Unix Timestamp Stop
+3          = Segment Number
 ``````
 
