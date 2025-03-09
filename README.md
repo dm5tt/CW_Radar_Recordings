@@ -17,7 +17,7 @@ ADC
 * 50kHz ADC speed
 * V_aref = 3.3V
 
-The parameters of the antenna can be found if you google for the "HLK-LD2415" datasheet.
+The parameters of the antenna can be found if you google for the "HLK-LD2415H" datasheet.
 
 The transmitter/antenna itself wasn't modified.
 
