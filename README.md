@@ -39,7 +39,7 @@ Radar test against the loudspeaker membrane that generated a sinus on 50Hz/100Hz
 ## street_low_gain_1741464109_1741465109_3
 
 
-![Street High Gain Screenshot](recordings/street_high_gain/street_low_gain_1741464109_1741465109_3.jpeg)
+![Street High Gain Screenshot](recordings/street_low_gain/street_low_gain_1741464109_1741465109_3.jpeg)
 
 ```
 1741443997 = Unix Timestamp Start
